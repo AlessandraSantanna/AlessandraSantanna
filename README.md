@@ -3,26 +3,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alessandra+Santana!;;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
 
 
-<p  align="center"> Tenho paixão por transformar linhas de código em soluções inovadoras e funcionais. Com habilidades sólidas em programação Front End, estou sempre ansiosa para aprender e dominar novas tecnologias.
-
-💡 Sou uma solucionadora de problemas criativa e colaborativa, com excelentes habilidades de comunicação e trabalho em equipe. Acredito no poder da colaboração para alcançar resultados excepcionais.</p>
-<br>
-
-## 
+ 
 <p align="center"><img src="https://www.tomethiago.com.br/assets/computer.svg"/></p>
 
 
-<p  align="center">
-💻 Eu sou uma DesenvolvedoraFrontEnd <br>
-💻 Estudo Desenvolvimento de Software Fullstack com foco em Front-End <br>
+
+**Desenvolvedora Front-end em Transição | Buscando Novas Oportunidades**
+
+Com formação em Sistemas de Informação e paixão por programação, estou em constante evolução para me tornar uma desenvolvedora full-stack. Possuo experiência em suporte técnico e administração, o que me proporcionou habilidades sólidas em resolução de problemas e trabalho em equipe. 
+
+**Tecnologias:**
+
+* **Front-end:** React, JavaScript, HTML5, CSS3
+* **Back-end:** Node.js (em desenvolvimento)
+* **Outras:** Git, MongoDB
 
 
 
 
-<p  align="center">
-- 📫  e-mail:alesy2007@gmail.com
-- linkedin:https://www.linkedin.com/in/devalessandrasantana/
-</p>
+ 📫 **Contato:**
+* **Email:** alesy2007@gmail.co
+* **LinkedIn:** https://www.linkedin.com/in/alessandrasantana
+
+
 <div style="display: inline_block" >
   <br>
  <br>
