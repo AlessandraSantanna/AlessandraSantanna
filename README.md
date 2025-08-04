@@ -15,7 +15,7 @@ Com formação em Sistemas de Informação e paixão por programação, estou em
 **Tecnologias:**
 
 * **Front-end:** React, JavaScript, HTML5, CSS3
-* **Back-end:** Node.js (em desenvolvimento)
+* **Back-end:** Node.js, C#, Java
 * **Outras:** Git, MongoDB
 
 
